@@ -1,0 +1,4 @@
+{'id': 1, 'name': 'karen', 'age': 17, 'school': 'Aurora SS', 'grade': 11, 'gender': 'F', 'address': None}
+{'id': 2, 'name': 'helen', 'age': 16, 'school': 'Bayvew SS', 'grade': 10, 'gender': 'F', 'address': None}
+{'id': 3, 'name': 'jane', 'age': 11, 'school': 'Vicotoria CI', 'grade': 7, 'gender': 'F', 'address': None}
+{'id': 1, 'name': 'karen Kwong', 'age': 17, 'school': None, 'grade': 1, 'gender': 'F', 'address': <__main__.Address object at 0x000001D82EC883D0>}
